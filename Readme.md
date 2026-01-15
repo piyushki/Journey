@@ -1,18 +1,60 @@
-## About Me
+## 👤 About Me
 
-My name is **Piyush Kumar Khosla**. I focus on **Vulnerability Assessment and Penetration Testing**.
+I work in **web security**, focused on **web application penetration testing** and **bug bounty research**.  
+My approach is analysis-first, not scanner-driven.
 
-I have built a solid foundation in **Web Application Security**, but progress has occasionally stalled due to gaps in consistency and hands-on execution. This repository exists to correct that.
+---
 
-The objective is simple:
-- Shift from theory to practice  
-- Enforce consistency over motivation  
-- Build discipline through daily execution  
+## 🔍 What I Work On
 
-This repository documents my **daily routine, experiments, and progress**. The structure and methods will evolve, but consistency is non-negotiable.
+- Reconnaissance and attack surface mapping  
+- JavaScript analysis for hidden endpoints and logic flow  
+- Authentication and authorization weaknesses  
+- Session handling and access control flaws  
+- IDOR, business logic bugs, and privilege escalation  
+- API and GraphQL security testing  
 
-It serves two purposes:
-- A verifiable record of my learning journey  
-- A transparent log others can reference, audit, or learn from  
+---
 
-This is not a showcase. It is a system for long-term growth.
+## 🛠 Tools & Environment
+
+- **Burp Suite** (primary interception and analysis)
+- **Kali Linux**
+- Browser DevTools for JavaScript reverse analysis
+- Custom scripts for recon and automation where necessary
+
+---
+
+## 🧠 Methodology
+
+I prefer **reading and understanding code** over blind fuzzing.  
+JavaScript bundles, API behavior, and application logic are treated as first-class attack surfaces.
+
+Targets are not black boxes.  
+Understanding comes before exploitation.
+
+---
+
+## 📂 About This Repository
+
+This GitHub is a **working archive**, not a portfolio.
+
+Contents include:
+- Recon scripts
+- JavaScript endpoint extractors
+- Notes from real targets
+- Proofs of concept
+- Reusable techniques
+
+Everything here exists to:
+- Reduce repeated manual work
+- Preserve analysis for future reuse
+- Compound skill through documentation
+
+---
+
+## 🎯 Objective
+
+Build depth, not noise.  
+Document what actually works.  
+Sharpen reasoning over time.
