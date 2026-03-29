@@ -30,7 +30,7 @@ My approach is analysis-first, not scanner-driven.
 I prefer **reading and understanding code** over blind fuzzing.  
 JavaScript bundles, API behavior, and application logic are treated as first-class attack surfaces.
 
-Targets are not black boxes.  
+Targets are black boxes.  
 Understanding comes before exploitation.
 
 ---
